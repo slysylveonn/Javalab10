@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color:blue;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: blue;
+    color: white;
+
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+    cursor:pointer;
+    
+}
+.robot {
+    height: 50px;
+    width: 50px;
+}
+.input {
+    height: 150px;
+    width: 300px;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+}
+.fetchdisplay {
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+}
